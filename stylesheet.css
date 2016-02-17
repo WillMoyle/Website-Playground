@@ -1,0 +1,14 @@
+/* CSS - Cascading Style Sheets */
+
+p {
+    font-family: Verdana;
+}
+
+span {
+    background-color: #8B1C62;
+}
+
+img {
+    height: 200px;
+    border: 3px dashed black;
+}
